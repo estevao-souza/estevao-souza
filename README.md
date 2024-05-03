@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+🔭 I'm using this repository to store and document my Kotlin Applications while studying this subject that I have found increasingly interesting. Those applications consume External APIs as well as use my own Back-End with Firestore.
+
+⚡
 <!--
 **estevao-souza/estevao-souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
