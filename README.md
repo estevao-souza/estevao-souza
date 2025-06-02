@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm using this repository to store and document my projects studying various topics that I find interesting.
+🔭 I'm using this repository to store and document my projects as I study various topics that I find interesting.
 
 ⚡
 <!--
